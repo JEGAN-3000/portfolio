@@ -115,9 +115,7 @@ const Projects = () => {
               </p>
               <p className="text-center py-5 px-5 text-2xl my-auto">
                 A weather forecasting app built with ReactJS, and
-                OpenWeatherMap API. It displays current weather conditions,
-                temperature, humidity, wind speed, UV index, and five day
-                forecast for any location entered by the user.
+                OpenWeatherMap API. It displays current weather conditions.
               </p>
               <a
                 href="https://react-city-weather-app.netlify.app"
