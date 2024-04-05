@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container{
+    max-width: 1300px !important;
+    margin: 0 auto;
+    position: relative;
+}
+@media (max-width :1300px){
+    .container{
+        padding: 0 1.5rem;
+    }
+}
+.project_Details{
+    @apply absolute left-0 right-0 bottom-0 top-0 bg-teal-500 text-white hover:opacity-100 opacity-0 duration-500 cursor-pointer
+}
+.btn{
+    @apply bg-teal-500 px-5 py-2 font-bold text-white rounded hover:bg-teal-700
+}
+.contactFont{
+    font-family: "Merienda", cursive;
+    color: teal;
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@400..700&family=Merienda:wght@300..900&display=swap');
+.aboutFont{
+    font-family: "Merienda", cursive;
+    color: white;
+}
+.about{
+    width: 100vw;
+    height: 100%;
+}
+.image{
+    width: 600px;
+    height: 600px;
+    
+}
+@media(max-width:768px)
+{
+    .image{
+        width: 300px;
+        height: 300px;
+        margin: 0 auto;
+    }
+}
