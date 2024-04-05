@@ -40,7 +40,7 @@ const Projects = () => {
               </p>
               <a
                 className="text-center w-full  bg-slate-700 p-3 hover:bg-slate-950 "
-                href="https://react-js-randompassword-generator.netlify.app"
+                href="https://react-js-randompassword-generator.netlify.app" rel='noreferrer' 
                 target="_blank"
               >
                 {" "}
@@ -67,7 +67,7 @@ const Projects = () => {
               </p>
               <a
                 href="https://reactjs-currency-convertor.netlify.app"
-                target="_blank"
+                target="_blank" rel='noreferrer'
                 className="text-center w-full  bg-slate-700 p-3 hover:bg-slate-950 "
               >
                 {" "}
@@ -93,7 +93,7 @@ const Projects = () => {
               </p>
               <a
                 href="https://react-js-bmi-calculator.netlify.app"
-                target="_blank"
+                target="_blank" rel='noreferrer'
                 className="text-center w-full  bg-slate-700 p-3 hover:bg-slate-950 "
               >
                 {" "}
@@ -121,7 +121,7 @@ const Projects = () => {
               </p>
               <a
                 href="https://react-city-weather-app.netlify.app"
-                target="_blank"
+                target="_blank" rel='noreferrer'
                 className="text-center w-full  bg-slate-700 p-3 hover:bg-slate-950 "
               >
                 {" "}
@@ -147,7 +147,7 @@ const Projects = () => {
               </p>
               <a
                 href="https://madurai-library.netlify.app"
-                target="_blank"
+                target="_blank" rel='noreferrer'
                 className="text-center w-full  bg-slate-700 p-3 hover:bg-slate-950 "
               >
                 {" "}
@@ -175,7 +175,7 @@ const Projects = () => {
               <a
                 href="https://madurai-zootopia.netlify.app"
                 className="text-center w-full  bg-slate-700 p-3 hover:bg-slate-950 "
-                target="_blank"
+                target="_blank " rel='noreferrer'
               >
                 {" "}
                 View
