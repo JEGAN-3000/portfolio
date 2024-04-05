@@ -24,12 +24,7 @@ const MobileNavbar = ({ isOpen, toggleMenu }) => {
               <Link to="projects" spy={true} smooth={true} offset={50} duration={500} className="menuItem" href="#projects">
                 PROJECTS
               </Link>
-            </li>
-            {/* <li>
-              <Link to="resume" spy={true} smooth={true} offset={50} duration={500} className="menuItem" href="#resume">
-                RESUME
-              </Link>
-            </li> */}
+            </li>          
             <li>
               <Link to="contact" spy={true} smooth={true} offset={50} duration={500} className="menuItem" href="#contact">
                 CONTACT

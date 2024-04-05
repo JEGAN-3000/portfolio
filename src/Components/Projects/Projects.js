@@ -1,5 +1,4 @@
-import React from "react";
-import image1 from "../../Assets/photo2.jpeg";
+
 import { Element } from "react-scroll";
 import zoo from "../../Assets/zoo.png";
 import bmi from "../../Assets/bmi.jpg";

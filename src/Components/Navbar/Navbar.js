@@ -1,7 +1,6 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import "./Navbar.css";
-// import logo from '../../Assets/logo.png'
-// import { LuMenu } from "react-icons/lu";
+
 import MobileNavbar from "./MobileNavbar/MobileNavbar";
 import { Link } from "react-scroll";
 const Navbar = () => {
